@@ -1,8 +1,8 @@
 **Overview**  
-Welcome to the "Power BI - Data Visualization for Books Dataset"! This folder contains data and visualizations related to a cleaned dataset of books. This consists of three files: dashboards.pbix, books.csv, and exploring data.ipynb.
+Welcome to the "Power BI - Data Visualization for Books Dataset"! This folder contains data and visualizations related to a cleaned dataset of books. This consists of three files: [dashboards.pbix](https://github.com/ir-4/PowerBI/blob/main/Data%20visualization%20for%20Books%20dataset/Dashboards.pbix), [books.csv](https://github.com/ir-4/PowerBI/blob/main/Data%20visualization%20for%20Books%20dataset/books.csv), and [exploring data.ipynb](https://github.com/ir-4/PowerBI/blob/main/Data%20visualization%20for%20Books%20dataset/Exploring%20data.ipynb).
 
 **Dataset**  
-The dataset, books.csv, is a cleaned and preprocessed collection of book-related information. It includes attributes such as title, author, publisher, average rating, and more.
+The dataset, [books.csv](https://github.com/ir-4/PowerBI/blob/main/Data%20visualization%20for%20Books%20dataset/books.csv), is a cleaned and preprocessed collection of book-related information. It includes attributes such as title, author, publisher, average rating, and more.
 
 **Exploring Data**  
 To begin the analysis process, we first explored the dataset in exploring data.ipynb using Jupyter Notebook. This notebook contains basic functions for reading the CSV file, displaying a list of attributes, summarizing the data, and other exploratory tasks. Since it is a cleaned dataset, no additional cleaning process was required.
