@@ -5,7 +5,7 @@ Welcome to the "Superstore Data Visuals" project! This project focuses on analyz
 The dataset, [superstore.csv](https://github.com/ir-4/PowerBI/blob/main/Superstore%20data%20visuals/superstore.csv), contains essential information about the superstore's sales, customers, categories, and more. It includes attributes such as customer ID, product category, sales revenue, and others, which are crucial for conducting a comprehensive analysis.
 
 **Data Cleaning and Exploration**
-Before proceeding with the Power BI visualization, the dataset underwent thorough cleaning and exploration. For detailed insights into this process, please refer [link](https://github.com/ir-4/Data-Analysis-using-Python/blob/main/Superstore%20Performance%20Analysis/Data%20Analysis.ipynb)
+Before proceeding with the Power BI visualization, the dataset underwent thorough cleaning and exploration. For detailed insights into this process, please refer [link](https://github.com/ir-4/Data-Analysis-using-Python/blob/main/Superstore%20Performance%20Analysis/Data%20Analysis.ipynb).
 
 **Power BI Visualizations**
 The visualization for the Superstore Analysis has been created using Power BI and is available in the visualization for superstore.pbix file. It consists of two main visual analysis dashboards:
